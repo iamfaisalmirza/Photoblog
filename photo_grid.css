@@ -1,0 +1,26 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	margin-left: 1.66%;
+	font-size: 20px;
+	font-weight: 800;
+	border-bottom: 2px solid red;
+	padding-top: 70px;
+	padding-left: 20px;
+	width: 95%;
+
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+			
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+			
+}
